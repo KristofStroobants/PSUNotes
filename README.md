@@ -133,7 +133,7 @@ New-UDDynamic -Id 'dynamic2' -Content {
 
 # Interaction of Universal Dashboard Cmdlets
 
-```markdown
+```mermaid
 graph TD
     New_UDDashboard --> New_UDButton
     New_UDButton --> Show_UDModal
